@@ -19,3 +19,5 @@ To deploy the "Welcome to Travel" form in your own environment, follow these ste
 2. Provide deployment instructions, such as how to set up a web server, configure environment variables, etc.
 
 3. Add any additional information or best practices for deploying the form.
+
+ATLAST WE HAVE TO CONNECT THE DATABASES TO THE XAMPP CONTROL PANEL TO STORE THE DETAILS OF THE USERS/CUSTOMERS  BY USING MYSQL QUERY .
